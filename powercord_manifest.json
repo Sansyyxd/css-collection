@@ -1,8 +1,8 @@
 {
     "name": "some neet tings",
-    "description": "",
-    "version": "",
-    "author": "",
+    "description": "placeholder",
+    "version": "1.0",
+    "author": "darklight and others",
     "theme": "just-a-test.css",
     "consent": "false",
     "license": "MIT"
