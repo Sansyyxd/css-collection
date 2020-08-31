@@ -1,3 +1,4 @@
+.wrapper-2a6GCs[data-is-blocked="true"] { display: none; }
 :root {
    --hover-animation-speed: 0.35s;
    --seperator-color: var(--background-accent);
@@ -8,7 +9,7 @@ div[aria-label="Explore Public Servers"]{ display: none; }
    width: 50px;
    justify-content: right;
 }
-.wrapper-2a6GCs[data-is-blocked="true"] { display: none; }
+
 .members-1998pB {
    transition: transform var(--hover-animation-speed);
 }
@@ -171,7 +172,6 @@ div[data-ref-id="guildsnav"] * {
 .chat-3bRxxu .title-3qD0b-:hover .topic-TCb_qw {
     transform: translateX(0px);
     font-size: 13px;
-}
 .userPopout-3XzG_A {
     border-radius: 10px;
     box-shadow: var(--elevation-high);
