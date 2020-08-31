@@ -172,12 +172,6 @@ div[data-ref-id="guildsnav"] * {
     transform: translateX(0px);
     font-size: 13px;
 }
-@keyframes mykey{
-    100% {
-        transform: scale(5,5);
-        opacity: 0; 
-    }
-}
 .userPopout-3XzG_A {
     border-radius: 10px;
     box-shadow: var(--elevation-high);
